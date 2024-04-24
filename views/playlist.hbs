@@ -1,0 +1,17 @@
+<!-- Menu placeholder -->
+{{> menu}}
+
+<!-- Main content section -->
+<section class="ui center aligned middle aligned segment">
+  <!-- Playlist header with title and date -->
+  <h2 class="ui header">
+    {{singlePlaylist.title}} <!-- Dynamic title from singlePlaylist object -->
+    ({{singlePlaylist.date}}) <!-- Dynamic date from singlePlaylist object -->
+  </h2>
+  
+  <!-- Placeholder for listing medalists -->
+  {{> listmedalists}}
+  
+  <!-- Image representing the playlist with specified dimensions -->
+  <img src="{{singlePlaylist.profile}}" width="1050px" height="500px">
+</section>

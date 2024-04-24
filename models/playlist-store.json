@@ -1,0 +1,124 @@
+{
+  "playlistCollection": [
+    {
+      "id" : "01",
+      "title": "2019 All England Open Badminton Championships Men Singles Final",
+      "date": "2019-03-10",
+      "profile": "https://cdn.glitch.global/e799acfb-e8fc-483d-a90e-2ac7ba0e364a/arena-birmingham-birmingham-uk-10th-mar-2019-yonex-all-england-open-badminton-championships-day-5-mens-singles-final-kento-momota-of-japan-versus-viktor-axelsen-of-denmark-kento-momota-of-japan-holds-the-winners-trophy-and-medal-while-vikto.jpg?v=1708978731065",
+      "medalist": [
+       {
+        "id" : "06", 
+        "name": "Kento Momota",
+        "Awards": "Champion",
+        "age": 24,
+        "country": "Japan",
+        "prize_money": "$68,000"
+        },
+        {
+        "id" : "07",
+        "name": "Viktor Axelsen",
+        "Awards": "1st Runner Up",
+        "age": 25,
+        "country": "Denmark",
+        "prize_money": "$34,000"
+      }
+      ]
+    },
+    {
+      "id" : "02",
+      "title": "2020 All England Open Badminton Championships Men Singles Final",
+      "date": "2020-03-15",
+      "profile" : "https://cdn.glitch.global/e799acfb-e8fc-483d-a90e-2ac7ba0e364a/2b7fhdj.jpg?v=1709133792634",
+      "medalist": [ 
+        {
+        "id" : "08",
+        "name": "Viktor Axelsen",
+        "Awards": "Champion",
+        "age": 26,
+        "country": "Denmark",
+        "prize_money": "$70,000"
+        },
+        {
+        "id" : "09",
+        "name": "Chou Tien-chen",
+        "Awards": "1st Runner Up",
+        "age": 30,
+        "country": "Chinese Taipei",
+        "prize_money": "$35,000" 
+        }
+        ]     
+    },
+    {
+      "id" : "03",
+      "title": "2021 All England Open Badminton Championships Men Singles Final",
+      "date": "2021-03-21",
+      "profile": "https://cdn.glitch.global/e799acfb-e8fc-483d-a90e-2ac7ba0e364a/Lee%2BZii%2BJia%2BGettyImages-1231853311.jpg?v=1709133816133",
+      "medalist": [
+      {
+        "id" : "10",
+        "name": "Lee Zii Jia",
+        "Awards": "Champion",
+        "age": 22,
+        "country": "Malaysia",
+        "prize_money": "$75,000"
+      },
+      {
+        "id" : "11",
+        "name": "Viktor Axelsen",
+        "Awards": "1st Runner Up",
+        "age": 27,
+        "country": "Denmark",
+        "prize_money": "$38,000"
+      } 
+      ]      
+    },
+    {
+      "id" : "04",
+      "title": "2022 All England Open Badminton Championships Men Singles Final",
+      "date": "2022-03-20",
+      "profile": "https://cdn.glitch.global/e799acfb-e8fc-483d-a90e-2ac7ba0e364a/denmarks-viktor-axelsen-left-celebrates-victory-over-indias-lakshya-sen-in-the-mens-singles-final-during-day-five-of-the-yonex-all-england-open-badminton-championships-at-the-utilita-arena-birmingham-picture-date-sunday-march-20-2022-2J0RJN.jpg?v=1709133803592",
+      "medalist": [
+      {
+        "id" : "12",
+        "name": "Viktor Axelsen",
+        "Awards": "Champion",
+        "age": 28,
+        "country": "Denmark",
+        "prize_money": "$70,000"
+      },
+      {
+        "id" : "13",
+        "name": "Lakshya Sen",
+        "Awards": "1st Runner Up",
+        "age": 21,
+        "country": "India",
+        "prize_money": "$34,500"
+       }
+        ]
+    },
+    {
+      "id" : "05",
+      "title": "2023 All England Open Badminton Championships Men Singles Final",
+      "date": "2023-03-19",
+      "profile": "https://cdn.glitch.global/e799acfb-e8fc-483d-a90e-2ac7ba0e364a/gettyimages-1248614557-612x612.jpg?v=1709133811325",
+      "medalist": [
+      {
+        "id" : "14",
+        "name": "Li Shifeng",
+        "Awards": "Champion",
+        "age": 23,
+        "country": "China",
+        "prize_money": "$84,500"
+      },
+      {
+        "id" : "15",
+        "name": "Shi Yuqi",
+        "Awards": "1st Runner Up",
+        "age": 28,
+        "country": "China",
+        "prize_money": "$42,500"
+      }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<!-- Including the menu with an ID for the dashboard -->
+{{> menu id="dashboard"}}
+
+<!-- Main section for the dashboard -->
+<section class="ui left aligned middle aligned segment">
+  
+  <!-- Dashboard header -->
+  <h2>All England Open App Dashboard</h2>
+  
+  <!-- Display message if there are no playlists -->
+  {{#unless playlists}}
+    <h3 class="ui message">
+      Start adding your playlists!
+    </h3>
+  {{/unless}}
+
+  <!-- Loop through each playlist -->
+  {{#each playlists}}
+    <section class="ui left aligned middle aligned segment">
+
+      <!-- Display the title of the playlist -->
+      <h3 class="ui header">
+        {{title}}
+      </h3>
+
+      <!-- Display total medalists if available, else show empty message -->
+      <p>
+        {{#if medalist}}
+         Total Medalists: {{medalist.length}}  
+        {{else}}
+         Empty playlists!
+        {{/if}}
+      </p>
+      
+      <!-- Link to view the playlist -->
+     <a href="/playlist/{{id}}"> View </a>
+      
+    </section>
+  {{/each}}
+
+</section>
